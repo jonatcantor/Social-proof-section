@@ -1,6 +1,6 @@
 # Social proof section
 
-A responsive social proof section for a Frontend Mentor challenge.
+A responsive social proof section for a [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA).
 
 Made with only HTML and CSS.
 
