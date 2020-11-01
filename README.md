@@ -4,7 +4,7 @@ A responsive social proof section for a [Frontend Mentor challenge](https://www.
 
 Made with only HTML and CSS.
 
-[Preview Site](https://jonathan-cantor.github.io/Social-proof-section/)
+[Preview Site](https://jonatcantor.github.io/Social-proof-section/)
 
 ## Image
 
